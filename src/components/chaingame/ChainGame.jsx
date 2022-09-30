@@ -21,19 +21,19 @@ const ChainGame = () => {
 						</p>
 					</div>
 				</div>
-				<div className="row mtc">
-					<div className="col-sm-12 col-md-6 col-lg-6 w-sm-100">
+				<div className="row my-5 d-flex justify-content-center align-item-center">
+					<div className="col-sm-12 col-md-6 col-lg-6 col-xl-6 ">
 						<img src={gameImg1} alt=" game" className="gameImg1" />
 					</div>
-					<div className="col-sm-12 col-md-6 col-lg-6">
+					<div className="col-sm-12 col-md-6 col-lg-6 col-xl-6">
 						<div className="row">
 							<img src={gameImg2} alt="game" className="gameImg2" />
 						</div>
 						<div className="row mt-5 ">
-							<div className="col-sm-6 col-md-6 col-lg-6">
+							<div className="col-sm-6 col-md-6 col-lg-6 col-xl-6">
 								<img src={gameImg3} alt="game" className="gameImg3" />
 							</div>
-							<div className="col-sm-6 col-md-6 col-lg-6">
+							<div className="col-sm-6 col-md-6 col-lg-6 col-xl-6">
 								<img src={gameImg4} alt="game" className="gameImg4" />
 							</div>
 						</div>
