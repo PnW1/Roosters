@@ -101,10 +101,14 @@
 }
 .button-relative {
 	position: relative;
+	margin-top: 5.5rem;
 }
-.arrow-btn button {
+.arrow-btn a {
 	margin-right: 2rem;
-	/* color: white; */
+	padding-left: 4rem;
+	color: white;
+	font-size: 2rem;
+	text-decoration: none;
 }
 .auction-div {
 	position: relative;

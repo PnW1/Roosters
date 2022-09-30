@@ -29,8 +29,8 @@ const Auction = () => {
 							<div className="button-relative ">
 								<div></div>
 								<div className="arrow-btn">
-									<button>Prev</button>
-									<button>Next</button>
+									<a href="#">Prev</a>
+									<a href="#">Next</a>
 									{/* <button
 										// className="carousel-control-prev"
 										type="button"

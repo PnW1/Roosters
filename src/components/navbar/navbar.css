@@ -29,11 +29,11 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	gap: 10px;
+	gap: 5px;
 	flex-wrap: wrap;
 	text-transform: uppercase;
 }
 .nav-link {
-	font-size: 1.2rem;
+	font-size: 2rem;
 	margin-right: 1rem;
 }

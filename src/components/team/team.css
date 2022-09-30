@@ -45,3 +45,24 @@
 	width: 36.4rem;
 	height: 54.7rem;
 }
+.team-card {
+	position: relative;
+}
+.team-card-heading {
+	position: absolute;
+	bottom: 3rem;
+	left: 2rem;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 2rem;
+	line-height: 2.6rem;
+}
+.team-card-logo {
+	position: absolute;
+	bottom: 3rem;
+	right: 9rem;
+}
+.team-card-logo a {
+	font-size: 4rem;
+	color: #ffffff;
+}

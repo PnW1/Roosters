@@ -24,31 +24,85 @@ const Team = () => {
 						<div className="col-md-4 col-sm-6 col-lg-4 mb-sm-5 md-md-2 ml-4">
 							<div className="team-card">
 								<img src={tLogo1} alt="team logo" />
+								<div className="text-light team-card-heading ">
+									<p>Luke</p>
+									<span>coummunity lead</span>
+								</div>
+								<div className="text-light team-card-logo ">
+									<a href="">
+										<i class="fa-brands fa-twitter"></i>
+									</a>
+								</div>
 							</div>
 						</div>
 						<div className="col-md-4 col-sm-6 col-lg-4 mb-sm-5 md-md-2 ml-4">
 							<div className="team-card">
 								<img src={tLogo2} alt="team logo" />
+								<div className="text-light team-card-heading ">
+									<p>Luke</p>
+									<span>coummunity lead</span>
+								</div>
+								<div className="text-light team-card-logo ">
+									<a href="">
+										<i class="fa-brands fa-twitter"></i>
+									</a>
+								</div>
 							</div>
 						</div>
 						<div className="col-md-4 col-sm-6 col-lg-4 mb-sm-5 md-md-2 ml-4">
 							<div className="team-card">
 								<img src={tLogo3} alt="team logo" />
+								<div className="text-light team-card-heading ">
+									<p>Luke</p>
+									<span>coummunity lead</span>
+								</div>
+								<div className="text-light team-card-logo ">
+									<a href="">
+										<i class="fa-brands fa-twitter"></i>
+									</a>
+								</div>
 							</div>
 						</div>
 						<div className="col-md-4 col-sm-6 col-lg-4 mb-sm-5 md-md-2 ml-4">
 							<div className="team-card">
 								<img src={tLogo4} alt="team logo" />
+								<div className="text-light team-card-heading ">
+									<p>Luke</p>
+									<span>coummunity lead</span>
+								</div>
+								<div className="text-light team-card-logo ">
+									<a href="">
+										<i class="fa-brands fa-twitter"></i>
+									</a>
+								</div>
 							</div>
 						</div>
 						<div className="col-md-4 col-sm-6 col-lg-4 mb-sm-5 md-md-2 ml-4">
 							<div className="team-card">
 								<img src={tLogo5} alt="team logo" />
+								<div className="text-light team-card-heading ">
+									<p>Luke</p>
+									<span>coummunity lead</span>
+								</div>
+								<div className="text-light team-card-logo ">
+									<a href="">
+										<i class="fa-brands fa-twitter"></i>
+									</a>
+								</div>
 							</div>
 						</div>
 						<div className="col-md-4 col-sm-6 col-lg-4 mb-sm-5 md-md-2 ml-4">
 							<div className="team-card">
 								<img src={tLogo6} alt="team logo" />
+								<div className="text-light team-card-heading ">
+									<p>Luke</p>
+									<span>coummunity lead</span>
+								</div>
+								<div className="text-light team-card-logo ">
+									<a href="">
+										<i class="fa-brands fa-twitter"></i>
+									</a>
+								</div>
 							</div>
 						</div>
 					</div>
